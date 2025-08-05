@@ -15,11 +15,11 @@ nav_order: 2
 
 <div class="publications">
 
-<h2 style="color: #007bff; font-weight: bold; margin-top: 2rem; margin-bottom: 1rem;">Journal Articles</h2>
+<h2 style="color: #A2B9C3; font-weight: bold; margin-top: 2rem; margin-bottom: 1rem;">Journal Articles</h2>
 
 {% bibliography -f papers -q @article %}
 
-<h2 style="color: #007bff; font-weight: bold; margin-top: 2rem; margin-bottom: 1rem;">Conference Presentations</h2>
+<h2 style="color: #A2B9C3; font-weight: bold; margin-top: 2rem; margin-bottom: 1rem;">Conference Presentations</h2>
 
 {% bibliography -f papers -q @inproceedings %}
 
