@@ -137,6 +137,35 @@ table {
   }
 }
 
+// Abstract styling for journal articles
+.abstract-visible {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #f8f9fa;
+  border-left: 3px solid #007bff;
+  border-radius: 3px;
+}
+
+.abstract-visible p {
+  margin-bottom: 0;
+  font-size: 16px !important;
+  line-height: 1.5 !important;
+  color: #495057;
+}
+
+// Title link styling
+.title a {
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.title a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
 @media (max-width: 576px) {
   body, p, li, .card-body, .post, .publications, .projects, .profile .more-info, blockquote, table, .cv, .teaching {
     font-size: 14px !important;
@@ -148,5 +177,9 @@ table {
   
   .navbar-brand {
     font-size: 16px !important;
+  }
+  
+  .abstract-visible p {
+    font-size: 14px !important;
   }
 } 
