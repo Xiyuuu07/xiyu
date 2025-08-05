@@ -9,128 +9,130 @@
 // Override body font
 body {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
   line-height: 1.6 !important;
 }
 
 // Override paragraph font
 p {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
   line-height: 1.6 !important;
 }
 
 // Override headings
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
+  font-size: 36px !important;
   font-weight: 700 !important;
+  line-height: 1.4 !important;
 }
 
 // Override list items
 li {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
   line-height: 1.6 !important;
 }
 
 // Override navigation
 .navbar-nav .nav-item .nav-link {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 20px !important;
+  font-size: 26px !important;
 }
 
 // Override navbar brand
 .navbar-brand {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 24px !important;
+  font-size: 30px !important;
   font-weight: 700 !important;
 }
 
 // Override card text
 .card-body {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
 }
 
 // Override post content
 .post {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
 }
 
 // Override publications
 .publications {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
 }
 
 // Override projects
 .projects {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
 }
 
 // Override about page content
 .profile .more-info {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
 }
 
 // Override footer
 footer {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 20px !important;
+  font-size: 26px !important;
 }
 
 // Override blockquotes
 blockquote {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
 }
 
 // Override table content
 table {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
 }
 
 // Override CV content
 .cv {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
 }
 
 // Override teaching page
 .teaching {
   font-family: 'Merriweather', 'Source Serif Pro', Georgia, 'Times New Roman', serif !important;
-  font-size: 22px !important;
+  font-size: 28px !important;
 }
 
 // Responsive adjustments for smaller screens
 @media (max-width: 768px) {
   body, p, li, .card-body, .post, .publications, .projects, .profile .more-info, blockquote, table, .cv, .teaching {
-    font-size: 20px !important;
+    font-size: 24px !important;
   }
   
   .navbar-nav .nav-item .nav-link {
-    font-size: 18px !important;
+    font-size: 22px !important;
   }
   
   .navbar-brand {
-    font-size: 22px !important;
+    font-size: 26px !important;
   }
 }
 
 @media (max-width: 576px) {
   body, p, li, .card-body, .post, .publications, .projects, .profile .more-info, blockquote, table, .cv, .teaching {
-    font-size: 18px !important;
+    font-size: 22px !important;
   }
   
   .navbar-nav .nav-item .nav-link {
-    font-size: 16px !important;
+    font-size: 20px !important;
   }
   
   .navbar-brand {
-    font-size: 20px !important;
+    font-size: 24px !important;
   }
 } 
