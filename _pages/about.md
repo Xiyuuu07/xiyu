@@ -2,33 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Macau</a>. Department of Communication. Platform studies, intimacy, and infrastructure.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am **Xiyu Cao**, a junior researcher in communication at the University of Macau. My work explores digital platforms, intimacy, and infrastructures to capture the patterns, mechanisms, and dynamics of how we live with technology.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Research Focus
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am especially interested in how our emotional life and forms of intimacy are technologically mediated and increasingly platformized. Using multiple qualitative research methods and engaging in theoretical construction, my research spans multiple dimensions of how platforms are interwoven into everyday life and shape our interactions and practices.
+
+## Current Research Areas
+
+- **Platform Studies**: Examining how digital platforms mediate human relationships and everyday life
+- **Digital Intimacy**: Exploring how technology shapes emotional connections, including dating and mourning, and their performances on the platforms.
+- **Infrastructure Studies**: Understanding the material and social dimensions of digital infrastructures in contemporary China
+- **Qualitative Methods**: Employing ethnographic, interview-based research, narrative and discourse approaches
