@@ -15,6 +15,12 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+## Journal Articles
+
+{% bibliography -f papers -q @article %}
+
+## Conference Presentations
+
+{% bibliography -f papers -q @inproceedings %}
 
 </div>
