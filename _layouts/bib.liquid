@@ -48,7 +48,17 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+      {% if entry.type == 'article' or entry.type == 'journal' %}
+        {% if entry.url %}
+          <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>
+        {% else %}
+          {{ entry.title }}
+        {% endif %}
+      {% else %}
+        {{ entry.title }}
+      {% endif %}
+    </div>
     <!-- Author -->
     {% unless entry.type == 'article' or entry.type == 'journal' %}
     <div class="author">
@@ -349,10 +359,17 @@
     {% endif %}
 
     {% if entry.abstract %}
-      <!-- Hidden abstract block -->
-      <div class="abstract hidden">
-        <p>{{ entry.abstract }}</p>
-      </div>
+      {% if entry.type == 'article' or entry.type == 'journal' %}
+        <!-- Show abstract for journal articles -->
+        <div class="abstract-visible">
+          <p><strong>Abstract:</strong> {{ entry.abstract }}</p>
+        </div>
+      {% else %}
+        <!-- Hidden abstract block for other types -->
+        <div class="abstract hidden">
+          <p>{{ entry.abstract }}</p>
+        </div>
+      {% endif %}
     {% endif %}
 
     {% if entry.bibtex_show %}
