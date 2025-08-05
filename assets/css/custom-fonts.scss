@@ -30,6 +30,14 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.4 !important;
 }
 
+// Make specific headers smaller than the main title
+h2 {
+  font-size: 20px !important;
+  font-weight: 600 !important;
+  margin-top: 2rem !important;
+  margin-bottom: 1rem !important;
+}
+
 // Override list items
 li {
   font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
