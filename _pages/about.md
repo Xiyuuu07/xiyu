@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Macau</a>. Department of Communication. Plat
 
 profile:
   align: right
-  image: IMG_7904.PNG
+  image: IMG_2896.JPG
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
