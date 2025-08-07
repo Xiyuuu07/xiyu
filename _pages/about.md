@@ -23,15 +23,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am **Xiyu Cao**, a junior researcher in communication at the University of Macau. My work explores digital platforms, intimacy, and infrastructures to capture the patterns, mechanisms, and dynamics of how we live with technology.
+Hello! I am **Xiyu Cao**, a passionate researcher in communication studies at the University of Macau. My work delves into the intricate intersections of digital platforms, human intimacy, and technological infrastructures, seeking to understand how these elements shape our contemporary social fabric.
+
+Through my research, I explore the profound ways in which technology mediates our emotional lives and forms of intimacy, examining how digital platforms become embedded in our everyday practices and relationships. My approach combines rigorous qualitative methodologies with theoretical innovation to capture the complex dynamics of human-technology interaction.
 
 ## Research Focus
 
-I am especially interested in how our emotional life and forms of intimacy are technologically mediated and increasingly platformized. Using multiple qualitative research methods and engaging in theoretical construction, my research spans multiple dimensions of how platforms are interwoven into everyday life and shape our interactions and practices.
+My research centers on understanding how digital platforms transform the ways we connect, communicate, and experience intimacy in the modern world. I investigate the technological mediation of emotional life and the increasing platformization of human relationships, examining both the opportunities and challenges this presents for contemporary society.
 
 ## Current Research Areas
 
-- **Platform Studies**: Examining how digital platforms mediate human relationships and everyday life
-- **Digital Intimacy**: Exploring how technology shapes emotional connections, including dating and mourning, and their performances on the platforms.
-- **Infrastructure Studies**: Understanding the material and social dimensions of digital infrastructures in contemporary China
-- **Qualitative Methods**: Employing ethnographic, interview-based research, narrative and discourse approaches
+- **Platform Studies**: Investigating how digital platforms mediate human relationships and everyday life, with particular focus on dating apps, social media, and communication technologies
+- **Digital Intimacy**: Exploring how technology shapes emotional connections, including romantic relationships, mourning practices, and their performances across various digital platforms
+- **Infrastructure Studies**: Understanding the material and social dimensions of digital infrastructures in contemporary China, examining how technological systems become embedded in social practices
+- **Qualitative Methods**: Employing ethnographic research, in-depth interviews, narrative analysis, and discourse approaches to capture the nuanced experiences of digital life
