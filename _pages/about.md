@@ -23,9 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am **Xiyu Cao**, a passionate researcher in communication studies at the University of Macau. My work delves into the intricate intersections of digital platforms, human intimacy, and technological infrastructures, seeking to understand how these elements shape our contemporary social fabric.
-
-Through my research, I explore the profound ways in which technology mediates our emotional lives and forms of intimacy, examining how digital platforms become embedded in our everyday practices and relationships. My approach combines rigorous qualitative methodologies with theoretical innovation to capture the complex dynamics of human-technology interaction.
+Hi! I am **Xiyu**, a junior researcher in communication. My work explores digital platforms, intimacy, and infrastructures to capture the patterns, mechanisms, and dynamics of how we live with technology. I am especially interested in how our emotional life and forms of intimacy are technologically mediated and increasingly platformized. Using multiple qualitative research methods and engaging in theoretical construction, my research spans multiple dimensions of how platforms are interwoven into everyday life and shape our interactions and practices.
 
 ## Research Focus
 
