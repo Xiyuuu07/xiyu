@@ -25,9 +25,7 @@ latest_posts:
 
 Hi! I am **Xiyu**, a junior researcher in communication. My work explores digital platforms, intimacy, and infrastructures to capture the patterns, mechanisms, and dynamics of how we live with technology. I am especially interested in how our emotional life and forms of intimacy are technologically mediated and increasingly platformized. Using multiple qualitative research methods and engaging in theoretical construction, my research spans multiple dimensions of how platforms are interwoven into everyday life and shape our interactions and practices.
 
-## Research Focus
 
-My research centers on understanding how digital platforms transform the ways we connect, communicate, and experience intimacy in the modern world. I investigate the technological mediation of emotional life and the increasing platformization of human relationships, examining both the opportunities and challenges this presents for contemporary society.
 
 ## Current Research Areas
 
