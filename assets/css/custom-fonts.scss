@@ -3,145 +3,162 @@
  * Override default fonts to use serif and larger size
  ******************************************************************************/
 
-// Import Google Fonts for sans-serif fonts
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+// Import Google Fonts for Lato
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 // Override body font
 body {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
   line-height: 1.6 !important;
 }
 
 // Override paragraph font
 p {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
   line-height: 1.6 !important;
 }
 
 // Override headings
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 24px !important;
-  font-weight: 600 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
   line-height: 1.4 !important;
 }
 
 // Make specific headers smaller than the main title
 h2 {
-  font-size: 20px !important;
-  font-weight: 600 !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
   margin-top: 2rem !important;
   margin-bottom: 1rem !important;
 }
 
 // Override list items
 li {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
   line-height: 1.6 !important;
 }
 
 // Override navigation
 .navbar-nav .nav-item .nav-link {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 16px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Override navbar brand
 .navbar-brand {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 20px !important;
-  font-weight: 600 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Override card text
 .card-body {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Override post content
 .post {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Override publications
 .publications {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Override projects
 .projects {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Override about page content
 .profile .more-info {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Override footer
 footer {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 16px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Override blockquotes
 blockquote {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Override table content
 table {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Override CV content
 .cv {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Override teaching page
 .teaching {
-  font-family: 'Inter', 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
-  font-size: 18px !important;
-  font-weight: 300 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Responsive adjustments for smaller screens
 @media (max-width: 768px) {
   body, p, li, .card-body, .post, .publications, .projects, .profile .more-info, blockquote, table, .cv, .teaching {
-    font-size: 16px !important;
+    font-size: 12px !important;
   }
   
   .navbar-nav .nav-item .nav-link {
-    font-size: 14px !important;
+    font-size: 12px !important;
   }
   
   .navbar-brand {
-    font-size: 18px !important;
+    font-size: 12px !important;
   }
 }
 
@@ -157,7 +174,10 @@ table {
 
 .abstract-visible p {
   margin-bottom: 0;
-  font-size: 16px !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
   line-height: 1.5 !important;
   color: #495057;
 }
@@ -213,8 +233,10 @@ table {
 .post-header h1 {
   position: relative;
   z-index: 2;
-  font-size: 2.5rem !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
   font-weight: 700 !important;
+  vertical-align: baseline !important;
   margin-bottom: 1rem;
   background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
   -webkit-background-clip: text;
@@ -226,8 +248,10 @@ table {
 .post-header .desc {
   position: relative;
   z-index: 2;
-  font-size: 1.1rem !important;
-  font-weight: 400 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
   color: #6c757d;
   max-width: 600px;
   margin: 0 auto;
@@ -271,7 +295,10 @@ table {
 
 // Enhanced Typography for Content
 .post p {
-  font-size: 1.1rem !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
   line-height: 1.8 !important;
   color: #495057;
   margin-bottom: 1.5rem;
@@ -279,8 +306,10 @@ table {
 }
 
 .post h2 {
-  font-size: 1.8rem !important;
-  font-weight: 600 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
   color: #2c3e50;
   margin-top: 2.5rem !important;
   margin-bottom: 1.5rem !important;
@@ -314,8 +343,10 @@ table {
   border-radius: 12px;
   border-left: 4px solid #A2B9C3;
   transition: all 0.3s ease;
-  font-size: 1rem !important;
-  font-weight: 400 !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 .post li:hover {
@@ -324,8 +355,10 @@ table {
 }
 
 .post li strong {
+  font-family: 'Lato', Arial, sans-serif !important;
   color: #2c3e50;
-  font-weight: 600 !important;
+  font-weight: 700 !important;
+  vertical-align: baseline !important;
 }
 
 // Enhanced Selected Publications Section
@@ -336,11 +369,11 @@ table {
 // Responsive Design
 @media (max-width: 768px) {
   .post-header h1 {
-    font-size: 2rem !important;
+    font-size: 12px !important;
   }
   
   .post-header .desc {
-    font-size: 1rem !important;
+    font-size: 12px !important;
   }
   
   .post article {
@@ -348,17 +381,17 @@ table {
   }
   
   .post p {
-    font-size: 1rem !important;
+    font-size: 12px !important;
   }
   
   .post h2 {
-    font-size: 1.5rem !important;
+    font-size: 12px !important;
   }
 }
 
 @media (max-width: 576px) {
   body, p, li, .card-body, .post, .publications, .projects, .profile .more-info, blockquote, table, .cv, .teaching {
-    font-size: 14px !important;
+    font-size: 12px !important;
   }
   
   .navbar-nav .nav-item .nav-link {
@@ -366,11 +399,11 @@ table {
   }
   
   .navbar-brand {
-    font-size: 16px !important;
+    font-size: 12px !important;
   }
   
   .abstract-visible p {
-    font-size: 14px !important;
+    font-size: 12px !important;
   }
   
   .cv-pdf-container iframe {
