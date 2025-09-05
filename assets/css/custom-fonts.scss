@@ -9,35 +9,32 @@
 // Override body font
 body {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
   line-height: 1.6 !important;
 }
 
 // Override paragraph font
 p {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
   line-height: 1.6 !important;
 }
 
 // Override headings
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 24px !important;
+  font-weight: 600 !important;
   line-height: 1.4 !important;
 }
 
 // Make specific headers smaller than the main title
 h2 {
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-family: 'Lato', Arial, sans-serif !important;
+  font-size: 20px !important;
+  font-weight: 600 !important;
   margin-top: 2rem !important;
   margin-bottom: 1rem !important;
 }
@@ -45,120 +42,107 @@ h2 {
 // Override list items
 li {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
   line-height: 1.6 !important;
 }
 
 // Override navigation
 .navbar-nav .nav-item .nav-link {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
 }
 
 // Override navbar brand
 .navbar-brand {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 20px !important;
+  font-weight: 600 !important;
 }
 
 // Override card text
 .card-body {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
 }
 
 // Override post content
 .post {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
 }
 
 // Override publications
 .publications {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
 }
 
 // Override projects
 .projects {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
 }
 
 // Override about page content
 .profile .more-info {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
 }
 
 // Override footer
 footer {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
 }
 
 // Override blockquotes
 blockquote {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
 }
 
 // Override table content
 table {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
 }
 
 // Override CV content
 .cv {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
 }
 
 // Override teaching page
 .teaching {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
 }
 
 // Responsive adjustments for smaller screens
 @media (max-width: 768px) {
   body, p, li, .card-body, .post, .publications, .projects, .profile .more-info, blockquote, table, .cv, .teaching {
-    font-size: 12px !important;
+    font-size: 14px !important;
   }
   
   .navbar-nav .nav-item .nav-link {
-    font-size: 12px !important;
+    font-size: 14px !important;
   }
   
   .navbar-brand {
-    font-size: 12px !important;
+    font-size: 18px !important;
   }
 }
 
@@ -175,9 +159,8 @@ table {
 .abstract-visible p {
   margin-bottom: 0;
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
   line-height: 1.5 !important;
   color: #495057;
 }
@@ -234,9 +217,8 @@ table {
   position: relative;
   z-index: 2;
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
+  font-size: 2.5rem !important;
   font-weight: 700 !important;
-  vertical-align: baseline !important;
   margin-bottom: 1rem;
   background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
   -webkit-background-clip: text;
@@ -249,9 +231,8 @@ table {
   position: relative;
   z-index: 2;
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 1.1rem !important;
+  font-weight: 400 !important;
   color: #6c757d;
   max-width: 600px;
   margin: 0 auto;
@@ -296,9 +277,8 @@ table {
 // Enhanced Typography for Content
 .post p {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 1.1rem !important;
+  font-weight: 400 !important;
   line-height: 1.8 !important;
   color: #495057;
   margin-bottom: 1.5rem;
@@ -307,9 +287,8 @@ table {
 
 .post h2 {
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 1.8rem !important;
+  font-weight: 600 !important;
   color: #2c3e50;
   margin-top: 2.5rem !important;
   margin-bottom: 1.5rem !important;
@@ -344,9 +323,8 @@ table {
   border-left: 4px solid #A2B9C3;
   transition: all 0.3s ease;
   font-family: 'Lato', Arial, sans-serif !important;
-  font-size: 12px !important;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-size: 1rem !important;
+  font-weight: 400 !important;
 }
 
 .post li:hover {
@@ -357,8 +335,7 @@ table {
 .post li strong {
   font-family: 'Lato', Arial, sans-serif !important;
   color: #2c3e50;
-  font-weight: 700 !important;
-  vertical-align: baseline !important;
+  font-weight: 600 !important;
 }
 
 // Enhanced Selected Publications Section
@@ -369,11 +346,11 @@ table {
 // Responsive Design
 @media (max-width: 768px) {
   .post-header h1 {
-    font-size: 12px !important;
+    font-size: 2rem !important;
   }
   
   .post-header .desc {
-    font-size: 12px !important;
+    font-size: 1rem !important;
   }
   
   .post article {
@@ -381,29 +358,29 @@ table {
   }
   
   .post p {
-    font-size: 12px !important;
+    font-size: 1rem !important;
   }
   
   .post h2 {
-    font-size: 12px !important;
+    font-size: 1.5rem !important;
   }
 }
 
 @media (max-width: 576px) {
   body, p, li, .card-body, .post, .publications, .projects, .profile .more-info, blockquote, table, .cv, .teaching {
-    font-size: 12px !important;
+    font-size: 14px !important;
   }
   
   .navbar-nav .nav-item .nav-link {
-    font-size: 12px !important;
+    font-size: 14px !important;
   }
   
   .navbar-brand {
-    font-size: 12px !important;
+    font-size: 16px !important;
   }
   
   .abstract-visible p {
-    font-size: 12px !important;
+    font-size: 14px !important;
   }
   
   .cv-pdf-container iframe {
